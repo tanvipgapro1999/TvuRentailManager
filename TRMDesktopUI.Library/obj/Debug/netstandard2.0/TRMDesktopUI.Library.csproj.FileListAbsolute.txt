@@ -1,0 +1,10 @@
+C:\Users\t_vu\source\repos\TRMDataManager\TRMDesktopUI.Library\obj\Debug\netstandard2.0\TRMDesktopUI.Library.csproj.AssemblyReference.cache
+C:\Users\t_vu\source\repos\TRMDataManager\TRMDesktopUI.Library\obj\Debug\netstandard2.0\TRMDesktopUI.Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\t_vu\source\repos\TRMDataManager\TRMDesktopUI.Library\obj\Debug\netstandard2.0\TRMDesktopUI.Library.AssemblyInfoInputs.cache
+C:\Users\t_vu\source\repos\TRMDataManager\TRMDesktopUI.Library\obj\Debug\netstandard2.0\TRMDesktopUI.Library.AssemblyInfo.cs
+C:\Users\t_vu\source\repos\TRMDataManager\TRMDesktopUI.Library\obj\Debug\netstandard2.0\TRMDesktopUI.Library.csproj.CoreCompileInputs.cache
+C:\Users\t_vu\source\repos\TRMDataManager\TRMDesktopUI.Library\bin\Debug\netstandard2.0\TRMDesktopUI.Library.deps.json
+C:\Users\t_vu\source\repos\TRMDataManager\TRMDesktopUI.Library\bin\Debug\netstandard2.0\TRMDesktopUI.Library.dll
+C:\Users\t_vu\source\repos\TRMDataManager\TRMDesktopUI.Library\bin\Debug\netstandard2.0\TRMDesktopUI.Library.pdb
+C:\Users\t_vu\source\repos\TRMDataManager\TRMDesktopUI.Library\obj\Debug\netstandard2.0\TRMDesktopUI.Library.dll
+C:\Users\t_vu\source\repos\TRMDataManager\TRMDesktopUI.Library\obj\Debug\netstandard2.0\TRMDesktopUI.Library.pdb

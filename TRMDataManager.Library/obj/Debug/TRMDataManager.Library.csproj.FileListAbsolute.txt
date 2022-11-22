@@ -1,0 +1,9 @@
+C:\Users\t_vu\source\repos\TRMDataManager\TRMDataManager.Library\bin\Debug\TRMDataManager.Library.dll
+C:\Users\t_vu\source\repos\TRMDataManager\TRMDataManager.Library\bin\Debug\TRMDataManager.Library.pdb
+C:\Users\t_vu\source\repos\TRMDataManager\TRMDataManager.Library\bin\Debug\Dapper.dll
+C:\Users\t_vu\source\repos\TRMDataManager\TRMDataManager.Library\bin\Debug\Dapper.xml
+C:\Users\t_vu\source\repos\TRMDataManager\TRMDataManager.Library\obj\Debug\TRMDataManager.Library.csproj.AssemblyReference.cache
+C:\Users\t_vu\source\repos\TRMDataManager\TRMDataManager.Library\obj\Debug\TRMDataManager.Library.csproj.CoreCompileInputs.cache
+C:\Users\t_vu\source\repos\TRMDataManager\TRMDataManager.Library\obj\Debug\TRMDataManager.Library.csproj.CopyComplete
+C:\Users\t_vu\source\repos\TRMDataManager\TRMDataManager.Library\obj\Debug\TRMDataManager.Library.dll
+C:\Users\t_vu\source\repos\TRMDataManager\TRMDataManager.Library\obj\Debug\TRMDataManager.Library.pdb

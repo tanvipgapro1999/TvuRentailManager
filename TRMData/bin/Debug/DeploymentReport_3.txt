@@ -1,0 +1,27 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       The column [dbo].[Product].[IsTaxable] is being dropped, data loss could occur.
+
+** User actions
+     Drop
+       unnamed constraint on [dbo].[Product] (Default Constraint)
+     Alter
+       [dbo].[Product] (Table)
+       [dbo].[spProduct_GetAll] (Procedure)
+       [dbo].[spUserLookup] (Procedure)
+     Create
+       [dbo].[FK_Inventory_ToProduct] (Foreign Key)
+       [dbo].[FK_Sale_ToUser] (Foreign Key)
+       [dbo].[FK_SaleDetail_ToProduct] (Foreign Key)
+       [dbo].[FK_SaleDetail_ToSale] (Foreign Key)
+
+** Supporting actions
+
+The column [dbo].[Product].[IsTaxable] is being dropped, data loss could occur.
+

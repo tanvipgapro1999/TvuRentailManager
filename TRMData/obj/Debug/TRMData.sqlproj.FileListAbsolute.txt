@@ -1,0 +1,6 @@
+C:\Users\t_vu\source\repos\TRMDataManager\TRMData\bin\Debug\TRMData.dacpac
+C:\Users\t_vu\source\repos\TRMDataManager\TRMData\bin\Debug\TRMData.dll
+C:\Users\t_vu\source\repos\TRMDataManager\TRMData\bin\Debug\TRMData.pdb
+C:\Users\t_vu\source\repos\TRMDataManager\TRMData\obj\Debug\TRMData.sqlproj.AssemblyReference.cache
+C:\Users\t_vu\source\repos\TRMDataManager\TRMData\obj\Debug\TRMData.dll
+C:\Users\t_vu\source\repos\TRMDataManager\TRMData\obj\Debug\TRMData.pdb

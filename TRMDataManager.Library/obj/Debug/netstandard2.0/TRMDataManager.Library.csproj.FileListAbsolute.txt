@@ -1,0 +1,8 @@
+C:\Users\t_vu\source\repos\TRMDataManager\TRMDataManager.Library\obj\Debug\netstandard2.0\TRMDataManager.Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\t_vu\source\repos\TRMDataManager\TRMDataManager.Library\obj\Debug\netstandard2.0\TRMDataManager.Library.csproj.CoreCompileInputs.cache
+C:\Users\t_vu\source\repos\TRMDataManager\TRMDataManager.Library\bin\Debug\netstandard2.0\TRMDataManager.Library.deps.json
+C:\Users\t_vu\source\repos\TRMDataManager\TRMDataManager.Library\bin\Debug\netstandard2.0\TRMDataManager.Library.dll
+C:\Users\t_vu\source\repos\TRMDataManager\TRMDataManager.Library\bin\Debug\netstandard2.0\TRMDataManager.Library.pdb
+C:\Users\t_vu\source\repos\TRMDataManager\TRMDataManager.Library\obj\Debug\netstandard2.0\TRMDataManager.Library.dll
+C:\Users\t_vu\source\repos\TRMDataManager\TRMDataManager.Library\obj\Debug\netstandard2.0\TRMDataManager.Library.pdb
+C:\Users\t_vu\source\repos\TRMDataManager\TRMDataManager.Library\obj\Debug\netstandard2.0\TRMDataManager.Library.csproj.AssemblyReference.cache
